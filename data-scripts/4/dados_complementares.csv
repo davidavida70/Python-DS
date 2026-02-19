@@ -1,0 +1,501 @@
+dt_venda,matricula_funcionario,nome_funcionario,cargo,codigo_loja,nome_loja,codigo_produto,descricao_produto,categoria,preco_custo,valor_unitario,quantidade,dt_entrega,valor_final
+2020-03-20,123456111,José Maria,Vendedor,CL001,Loja Matriz,10006,Aspirador de pó,Casa,88.9,189.9,4,2019-03-29 16:37:00,759.6
+2019-12-22,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2020-07-23 10:54:00,4040.7
+2019-12-18,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10007,Batedeira,Cozinha,49.9,95.9,3,2020-09-04 10:50:00,287.70000000000005
+2019-09-02,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2019-03-28 09:36:00,1709.1
+2019-01-15,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10009,Ferro de passar,Casa,27.9,55.9,3,2020-02-04 15:50:00,167.7
+2019-02-20,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10012,Processador de alimentos,Cozinha,110.0,189.9,2,2020-06-17 12:30:00,379.8
+2019-04-11,123456111,José Maria,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,3,2020-08-07 14:53:00,9597.0
+2020-12-17,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10012,Processador de alimentos,Cozinha,110.0,189.9,4,2020-08-20 15:24:00,759.6
+2019-07-03,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10007,Batedeira,Cozinha,49.9,95.9,3,2020-03-25 14:27:00,287.70000000000005
+2019-01-14,123456111,José Maria,Vendedor,CL001,Loja Matriz,10019,Sofá,Casa,789.9,1399.0,2,2019-05-26 10:16:00,2798.0
+2019-09-14,123456111,José Maria,Vendedor,CL001,Loja Matriz,10011,Liquidificador,Cozinha,59.9,142.4,2,2019-08-18 13:09:00,284.8
+2019-02-25,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10002,Tablet,Eletrônicos,799.0,1424.91,1,2019-06-15 15:47:00,1424.91
+2019-07-07,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10018,Colchão,Casa,109.9,249.9,3,2020-01-15 15:44:00,749.7
+2020-01-24,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,3,2020-08-15 13:33:00,569.7
+2020-04-12,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10016,Guarda Roupa,Casa,489.9,999.0,4,2019-09-01 13:41:00,3996.0
+2020-07-19,123456555,Marta Cury,Vendedor,CL002,Filial MG,10011,Liquidificador,Cozinha,59.9,142.4,2,2019-01-09 13:16:00,284.8
+2020-10-26,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10002,Tablet,Eletrônicos,799.0,1424.91,4,2019-06-10 13:53:00,5699.64
+2020-06-22,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10014,Geladeira,Eletrodomésticos,699.9,1346.9,1,2019-08-20 15:55:00,1346.9
+2019-11-17,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10009,Ferro de passar,Casa,27.9,55.9,3,2020-02-04 15:50:00,167.7
+2020-04-26,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10008,Cafeteira,Cozinha,159.9,284.9,4,2020-10-17 13:02:00,1139.6
+2019-12-25,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2019-06-07 12:44:00,4040.7
+2019-06-11,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10006,Aspirador de pó,Casa,88.9,189.9,1,2019-05-29 12:48:00,189.9
+2020-06-27,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,3,2019-08-18 11:09:00,9597.0
+2020-10-06,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10009,Ferro de passar,Casa,27.9,55.9,3,2019-09-14 09:56:00,167.7
+2019-11-14,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10009,Ferro de passar,Casa,27.9,55.9,3,2020-07-23 09:46:00,167.7
+2020-03-16,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10017,Cama Box,Casa,1189.9,1899.5,2,2019-01-31 14:17:00,3799.0
+2020-03-27,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2020-09-16 17:20:00,4040.7
+2020-10-16,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10009,Ferro de passar,Casa,27.9,55.9,4,2020-02-20 10:22:00,223.6
+2019-02-06,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,3,2019-09-30 11:26:00,5127.299999999999
+2019-12-12,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2019-01-19 14:48:00,729.0
+2019-04-28,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2019-12-26 16:16:00,729.0
+2019-11-11,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10016,Guarda Roupa,Casa,489.9,999.0,4,2020-05-10 12:48:00,3996.0
+2019-04-24,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10008,Cafeteira,Cozinha,159.9,284.9,4,2020-11-09 13:54:00,1139.6
+2020-04-13,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10019,Sofá,Casa,789.9,1399.0,1,2019-11-25 13:47:00,1399.0
+2019-12-29,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10011,Liquidificador,Cozinha,59.9,142.4,3,2020-09-15 12:51:00,427.2000000000001
+2019-01-12,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,1,2019-11-25 11:58:00,364.5
+2020-09-05,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,3,2019-11-25 10:50:00,5127.299999999999
+2020-09-18,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10012,Processador de alimentos,Cozinha,110.0,189.9,2,2019-09-16 17:38:00,379.8
+2019-12-16,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10012,Processador de alimentos,Cozinha,110.0,189.9,1,2019-07-07 10:19:00,189.9
+2019-11-08,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10020,Impressora,Eletrônicos,329.9,674.1,3,2020-03-18 09:48:00,2022.3
+2020-10-13,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10012,Processador de alimentos,Cozinha,110.0,189.9,2,2019-07-04 17:12:00,379.8
+2019-05-17,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,2,2019-01-15 16:14:00,379.8
+2019-06-15,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10006,Aspirador de pó,Casa,88.9,189.9,2,2020-12-02 09:06:00,379.8
+2020-04-28,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10001,Smartphone,Eletrônicos,899.9,1676.9,1,2019-04-02 13:39:00,1676.9
+2020-06-13,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10006,Aspirador de pó,Casa,88.9,189.9,4,2019-09-28 12:22:00,759.6
+2019-01-19,123456111,José Maria,Vendedor,CL001,Loja Matriz,10018,Colchão,Casa,109.9,249.9,4,2019-10-29 14:32:00,999.6
+2020-03-03,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10008,Cafeteira,Cozinha,159.9,284.9,1,2020-09-05 13:46:00,284.9
+2020-01-19,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,3,2020-09-05 13:57:00,569.7
+2020-05-20,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10003,Televisão,Eletrodomésticos,1400.9,2279.99,3,2019-06-02 16:17:00,6839.969999999999
+2019-08-22,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10010,Fritadeira elétrica,Cozinha,187.9,340.0,4,2019-02-01 09:57:00,1360.0
+2020-10-02,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,3,2020-08-31 16:39:00,1212.3000000000002
+2019-04-15,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,4,2020-06-15 10:56:00,1458.0
+2020-01-06,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10009,Ferro de passar,Casa,27.9,55.9,1,2019-01-01 14:07:00,55.9
+2019-12-31,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,3,2020-05-10 11:34:00,5127.299999999999
+2019-03-09,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10011,Liquidificador,Cozinha,59.9,142.4,4,2019-08-15 14:46:00,569.6
+2019-01-31,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,4,2019-12-08 17:40:00,3996.0
+2019-11-03,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10020,Impressora,Eletrônicos,329.9,674.1,3,2020-08-26 11:45:00,2022.3
+2019-11-10,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10006,Aspirador de pó,Casa,88.9,189.9,1,2019-06-14 16:56:00,189.9
+2019-01-11,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,4,2020-04-18 13:55:00,759.6
+2020-03-10,123456111,José Maria,Vendedor,CL001,Loja Matriz,10006,Aspirador de pó,Casa,88.9,189.9,3,2019-07-17 14:39:00,569.7
+2020-04-12,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10010,Fritadeira elétrica,Cozinha,187.9,340.0,3,2020-08-15 10:12:00,1020.0
+2019-01-04,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2020-10-08 15:24:00,729.0
+2019-01-04,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10010,Fritadeira elétrica,Cozinha,187.9,340.0,1,2019-01-22 09:14:00,340.0
+2019-06-25,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,3,2020-03-08 11:48:00,1212.3000000000002
+2020-12-28,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,3,2019-11-23 10:07:00,9597.0
+2020-12-22,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10020,Impressora,Eletrônicos,329.9,674.1,2,2019-06-17 09:28:00,1348.2
+2020-10-27,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2020-12-10 11:05:00,4040.7
+2020-10-04,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,1,2019-06-03 11:09:00,3199.0
+2020-09-13,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,3,2020-02-13 11:08:00,9597.0
+2020-02-01,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10006,Aspirador de pó,Casa,88.9,189.9,1,2019-08-22 13:46:00,189.9
+2020-03-26,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2019-02-20 14:45:00,1093.5
+2020-10-16,123456111,José Maria,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,4,2020-12-20 17:01:00,5699.64
+2019-02-02,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10009,Ferro de passar,Casa,27.9,55.9,2,2020-04-23 17:54:00,111.8
+2020-08-30,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10008,Cafeteira,Cozinha,159.9,284.9,3,2020-08-26 13:20:00,854.6999999999999
+2020-11-19,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,3,2019-10-29 14:59:00,5127.299999999999
+2019-01-07,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,2,2019-03-04 16:42:00,1998.0
+2020-09-14,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2019-06-01 16:39:00,4040.7
+2019-06-18,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,2,2019-08-30 16:30:00,3418.2
+2019-03-04,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10019,Sofá,Casa,789.9,1399.0,4,2020-05-24 14:54:00,5596.0
+2019-01-21,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10003,Televisão,Eletrodomésticos,1400.9,2279.99,3,2019-06-02 16:17:00,6839.969999999999
+2020-12-15,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10010,Fritadeira elétrica,Cozinha,187.9,340.0,3,2019-08-28 13:35:00,1020.0
+2019-01-23,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10014,Geladeira,Eletrodomésticos,699.9,1346.9,2,2019-07-21 09:02:00,2693.8
+2020-11-16,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10009,Ferro de passar,Casa,27.9,55.9,1,2020-07-27 14:35:00,55.9
+2019-01-05,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,4,2019-09-24 15:13:00,1616.4
+2019-10-18,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10001,Smartphone,Eletrônicos,899.9,1676.9,1,2019-09-07 16:36:00,1676.9
+2019-11-11,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10019,Sofá,Casa,789.9,1399.0,4,2019-02-28 11:37:00,5596.0
+2020-08-19,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10008,Cafeteira,Cozinha,159.9,284.9,2,2020-11-22 09:59:00,569.8
+2020-05-16,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,3,2019-06-02 10:43:00,2997.0
+2020-05-30,123456111,José Maria,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2020-03-17 15:26:00,1709.1
+2019-07-01,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2020-04-27 09:53:00,1093.5
+2019-02-23,123456111,José Maria,Vendedor,CL001,Loja Matriz,10016,Guarda Roupa,Casa,489.9,999.0,1,2020-09-23 16:14:00,999.0
+2020-12-17,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10005,Notebook,Eletrônicos,2299.9,3199.0,2,2020-03-08 12:12:00,6398.0
+2020-02-29,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10005,Notebook,Eletrônicos,2299.9,3199.0,2,2019-11-27 10:32:00,6398.0
+2019-09-22,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10006,Aspirador de pó,Casa,88.9,189.9,4,2019-11-01 16:03:00,759.6
+2020-05-31,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,4,2019-10-05 16:07:00,1458.0
+2020-05-01,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10009,Ferro de passar,Casa,27.9,55.9,4,2020-12-01 11:48:00,223.6
+2019-10-15,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10008,Cafeteira,Cozinha,159.9,284.9,4,2020-10-17 13:02:00,1139.6
+2020-04-15,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10019,Sofá,Casa,789.9,1399.0,4,2019-05-09 13:17:00,5596.0
+2020-09-10,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,1,2020-12-28 11:54:00,999.0
+2020-08-21,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10014,Geladeira,Eletrodomésticos,699.9,1346.9,1,2020-08-10 13:35:00,1346.9
+2019-01-24,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2019-05-15 11:32:00,1093.5
+2020-06-06,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10016,Guarda Roupa,Casa,489.9,999.0,1,2019-03-25 10:19:00,999.0
+2020-09-24,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,1,2019-04-30 09:39:00,2279.99
+2019-02-15,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10013,Fogão,Eletrodomésticos,210.9,404.1,4,2020-03-28 16:56:00,1616.4
+2020-12-28,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10007,Batedeira,Cozinha,49.9,95.9,3,2019-03-03 12:30:00,287.70000000000005
+2019-08-26,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10007,Batedeira,Cozinha,49.9,95.9,4,2020-04-19 09:38:00,383.6
+2019-01-15,123456555,Marta Cury,Vendedor,CL002,Filial MG,10011,Liquidificador,Cozinha,59.9,142.4,2,2019-01-09 13:16:00,284.8
+2020-08-31,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10015,Microondas,Eletrodomésticos,189.0,364.5,1,2019-04-03 17:51:00,364.5
+2020-04-06,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,4,2020-06-23 09:05:00,6836.4
+2019-06-11,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10010,Fritadeira elétrica,Cozinha,187.9,340.0,3,2019-01-22 17:16:00,1020.0
+2020-08-04,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10013,Fogão,Eletrodomésticos,210.9,404.1,3,2019-01-06 12:17:00,1212.3000000000002
+2020-01-18,123456111,José Maria,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,2,2019-08-10 15:01:00,2849.82
+2019-10-19,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2019-05-18 16:47:00,4040.7
+2020-09-28,123456555,Marta Cury,Vendedor,CL002,Filial MG,10019,Sofá,Casa,789.9,1399.0,3,2020-04-15 11:44:00,4197.0
+2020-05-06,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10020,Impressora,Eletrônicos,329.9,674.1,2,2019-12-16 12:39:00,1348.2
+2019-10-11,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10003,Televisão,Eletrodomésticos,1400.9,2279.99,2,2019-07-19 10:26:00,4559.98
+2019-07-21,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2020-07-15 12:08:00,1709.1
+2019-06-04,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2019-01-29 14:47:00,729.0
+2019-07-20,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,1,2020-07-19 10:16:00,364.5
+2019-04-03,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10001,Smartphone,Eletrônicos,899.9,1676.9,4,2019-05-22 15:12:00,6707.6
+2019-03-10,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10014,Geladeira,Eletrodomésticos,699.9,1346.9,2,2020-09-12 11:38:00,2693.8
+2019-07-16,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,3,2020-04-18 11:20:00,4274.7300000000005
+2020-09-15,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2020-04-29 17:03:00,1093.5
+2019-03-17,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2019-05-08 17:33:00,1093.5
+2019-01-05,123456555,Marta Cury,Vendedor,CL002,Filial MG,10018,Colchão,Casa,109.9,249.9,4,2020-01-21 15:01:00,999.6
+2020-01-13,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2019-03-28 11:33:00,1093.5
+2020-10-05,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10005,Notebook,Eletrônicos,2299.9,3199.0,1,2019-04-28 14:33:00,3199.0
+2020-05-29,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10017,Cama Box,Casa,1189.9,1899.5,4,2019-05-30 09:26:00,7598.0
+2020-04-29,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10005,Notebook,Eletrônicos,2299.9,3199.0,4,2019-03-30 09:12:00,12796.0
+2020-08-20,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10009,Ferro de passar,Casa,27.9,55.9,4,2020-01-11 14:34:00,223.6
+2020-04-03,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10016,Guarda Roupa,Casa,489.9,999.0,3,2020-02-09 14:17:00,2997.0
+2020-01-17,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2020-11-02 11:12:00,729.0
+2019-04-12,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,4,2020-11-30 11:32:00,5699.64
+2020-12-19,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10001,Smartphone,Eletrônicos,899.9,1676.9,1,2020-10-18 09:47:00,1676.9
+2019-01-20,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,4,2019-09-28 11:00:00,1616.4
+2020-05-26,123456555,Marta Cury,Vendedor,CL002,Filial MG,10013,Fogão,Eletrodomésticos,210.9,404.1,2,2019-08-03 13:46:00,808.2
+2019-12-25,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10011,Liquidificador,Cozinha,59.9,142.4,3,2020-11-29 09:14:00,427.2000000000001
+2019-01-08,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10016,Guarda Roupa,Casa,489.9,999.0,1,2020-05-19 09:12:00,999.0
+2020-08-15,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10012,Processador de alimentos,Cozinha,110.0,189.9,1,2020-09-02 15:34:00,189.9
+2019-04-21,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10012,Processador de alimentos,Cozinha,110.0,189.9,2,2020-12-28 12:26:00,379.8
+2019-01-06,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,2,2020-01-15 11:36:00,3418.2
+2020-03-02,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,1,2019-06-16 14:14:00,364.5
+2020-02-17,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10013,Fogão,Eletrodomésticos,210.9,404.1,1,2019-02-25 14:14:00,404.1
+2020-02-21,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10018,Colchão,Casa,109.9,249.9,2,2020-05-02 13:03:00,499.8
+2020-01-25,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10002,Tablet,Eletrônicos,799.0,1424.91,1,2020-07-29 13:16:00,1424.91
+2019-04-16,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10010,Fritadeira elétrica,Cozinha,187.9,340.0,2,2020-03-23 11:26:00,680.0
+2019-12-30,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10016,Guarda Roupa,Casa,489.9,999.0,1,2019-11-05 12:41:00,999.0
+2019-03-01,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10011,Liquidificador,Cozinha,59.9,142.4,2,2019-04-10 11:33:00,284.8
+2020-06-26,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10007,Batedeira,Cozinha,49.9,95.9,2,2020-02-01 13:59:00,191.8
+2019-03-15,123456111,José Maria,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2019-07-29 16:05:00,729.0
+2020-09-26,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10013,Fogão,Eletrodomésticos,210.9,404.1,4,2019-11-13 17:13:00,1616.4
+2019-07-23,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10002,Tablet,Eletrônicos,799.0,1424.91,1,2020-11-29 11:51:00,1424.91
+2019-09-15,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10011,Liquidificador,Cozinha,59.9,142.4,1,2020-08-08 17:18:00,142.4
+2020-06-03,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10020,Impressora,Eletrônicos,329.9,674.1,2,2020-01-30 12:07:00,1348.2
+2020-05-12,123456555,Marta Cury,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2020-09-28 10:07:00,729.0
+2020-12-27,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,3,2020-01-26 15:45:00,1212.3000000000002
+2020-12-14,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,3,2019-10-11 13:38:00,6839.969999999999
+2019-12-05,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10008,Cafeteira,Cozinha,159.9,284.9,2,2020-02-16 10:35:00,569.8
+2019-06-30,123456111,José Maria,Vendedor,CL001,Loja Matriz,10009,Ferro de passar,Casa,27.9,55.9,4,2019-08-06 10:59:00,223.6
+2020-11-23,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10002,Tablet,Eletrônicos,799.0,1424.91,4,2019-04-22 09:16:00,5699.64
+2019-07-26,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10012,Processador de alimentos,Cozinha,110.0,189.9,3,2019-08-30 11:02:00,569.7
+2019-09-23,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10020,Impressora,Eletrônicos,329.9,674.1,4,2020-06-01 17:02:00,2696.4
+2019-09-27,123456555,Marta Cury,Vendedor,CL002,Filial MG,10003,Televisão,Eletrodomésticos,1400.9,2279.99,2,2020-09-29 13:03:00,4559.98
+2019-10-30,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10010,Fritadeira elétrica,Cozinha,187.9,340.0,3,2019-05-25 14:00:00,1020.0
+2020-11-30,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10001,Smartphone,Eletrônicos,899.9,1676.9,3,2020-01-21 11:10:00,5030.700000000001
+2019-03-20,123456111,José Maria,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,3,2020-03-26 11:04:00,9597.0
+2019-05-08,123456555,Marta Cury,Vendedor,CL002,Filial MG,10020,Impressora,Eletrônicos,329.9,674.1,1,2020-04-21 15:44:00,674.1
+2019-07-16,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10003,Televisão,Eletrodomésticos,1400.9,2279.99,2,2019-03-06 12:10:00,4559.98
+2019-01-05,123456555,Marta Cury,Vendedor,CL002,Filial MG,10001,Smartphone,Eletrônicos,899.9,1676.9,3,2020-01-17 16:34:00,5030.700000000001
+2019-05-10,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10020,Impressora,Eletrônicos,329.9,674.1,1,2020-07-28 15:58:00,674.1
+2020-01-09,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,4,2019-06-03 11:34:00,6836.4
+2020-01-16,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10011,Liquidificador,Cozinha,59.9,142.4,4,2020-01-06 17:27:00,569.6
+2020-01-11,123456555,Marta Cury,Vendedor,CL002,Filial MG,10010,Fritadeira elétrica,Cozinha,187.9,340.0,2,2019-08-16 15:24:00,680.0
+2020-05-18,123456111,José Maria,Vendedor,CL001,Loja Matriz,10020,Impressora,Eletrônicos,329.9,674.1,4,2019-09-18 17:49:00,2696.4
+2019-08-23,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10018,Colchão,Casa,109.9,249.9,3,2019-01-11 16:00:00,749.7
+2019-02-02,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10018,Colchão,Casa,109.9,249.9,2,2020-01-11 11:13:00,499.8
+2019-09-20,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10013,Fogão,Eletrodomésticos,210.9,404.1,3,2020-03-04 17:02:00,1212.3000000000002
+2019-04-17,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10003,Televisão,Eletrodomésticos,1400.9,2279.99,2,2019-06-11 12:23:00,4559.98
+2019-09-02,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,3,2020-10-19 11:30:00,5127.299999999999
+2019-12-27,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10007,Batedeira,Cozinha,49.9,95.9,1,2019-01-06 10:53:00,95.9
+2020-06-22,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2019-04-22 12:02:00,729.0
+2019-11-19,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10018,Colchão,Casa,109.9,249.9,3,2019-02-26 15:29:00,749.7
+2019-08-05,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,4,2019-03-24 15:06:00,1458.0
+2020-11-15,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,2,2020-09-15 13:18:00,3418.2
+2019-11-01,123456555,Marta Cury,Vendedor,CL002,Filial MG,10001,Smartphone,Eletrônicos,899.9,1676.9,2,2020-08-24 17:24:00,3353.8
+2020-01-26,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2020-07-31 10:03:00,1093.5
+2019-09-15,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10001,Smartphone,Eletrônicos,899.9,1676.9,4,2019-06-26 11:41:00,6707.6
+2020-02-12,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,1,2019-06-21 09:21:00,3199.0
+2019-11-02,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10009,Ferro de passar,Casa,27.9,55.9,1,2019-02-20 17:39:00,55.9
+2019-11-19,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10012,Processador de alimentos,Cozinha,110.0,189.9,3,2020-01-15 12:52:00,569.7
+2020-10-10,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10017,Cama Box,Casa,1189.9,1899.5,4,2020-07-18 10:35:00,7598.0
+2020-01-25,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10012,Processador de alimentos,Cozinha,110.0,189.9,2,2019-07-13 16:38:00,379.8
+2020-05-02,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10011,Liquidificador,Cozinha,59.9,142.4,1,2020-06-29 15:35:00,142.4
+2019-10-31,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10016,Guarda Roupa,Casa,489.9,999.0,1,2019-09-23 16:49:00,999.0
+2020-02-17,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,3,2020-08-08 17:33:00,5698.5
+2020-01-31,123456111,José Maria,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,1,2020-09-28 13:41:00,364.5
+2020-02-15,123456111,José Maria,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,2,2019-09-19 15:54:00,6398.0
+2019-10-24,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,1,2019-05-28 14:29:00,2279.99
+2020-05-20,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10016,Guarda Roupa,Casa,489.9,999.0,4,2019-03-04 12:17:00,3996.0
+2019-11-16,123456111,José Maria,Vendedor,CL001,Loja Matriz,10020,Impressora,Eletrônicos,329.9,674.1,3,2019-08-21 10:12:00,2022.3
+2020-08-13,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2019-04-03 15:29:00,729.0
+2020-11-26,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,3,2019-07-15 13:40:00,1212.3000000000002
+2020-05-21,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10013,Fogão,Eletrodomésticos,210.9,404.1,1,2019-03-08 16:09:00,404.1
+2019-06-25,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10003,Televisão,Eletrodomésticos,1400.9,2279.99,1,2020-06-28 16:22:00,2279.99
+2020-12-03,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10011,Liquidificador,Cozinha,59.9,142.4,3,2019-08-24 10:04:00,427.2000000000001
+2020-09-03,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,4,2020-07-03 16:25:00,7598.0
+2020-11-20,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10009,Ferro de passar,Casa,27.9,55.9,2,2019-06-21 10:31:00,111.8
+2019-03-24,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10008,Cafeteira,Cozinha,159.9,284.9,4,2019-06-05 15:24:00,1139.6
+2019-11-09,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,4,2020-06-15 10:56:00,1458.0
+2020-02-22,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10009,Ferro de passar,Casa,27.9,55.9,2,2019-06-07 13:52:00,111.8
+2020-09-14,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10008,Cafeteira,Cozinha,159.9,284.9,4,2019-09-06 16:34:00,1139.6
+2019-09-21,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,2,2020-06-09 12:10:00,3799.0
+2019-03-14,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10016,Guarda Roupa,Casa,489.9,999.0,3,2020-09-02 09:04:00,2997.0
+2019-05-13,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,4,2020-02-28 10:18:00,759.6
+2020-10-20,123456555,Marta Cury,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2020-09-28 10:07:00,729.0
+2019-06-26,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,1,2019-06-21 09:21:00,3199.0
+2019-11-21,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10012,Processador de alimentos,Cozinha,110.0,189.9,1,2019-05-01 13:05:00,189.9
+2019-09-02,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10005,Notebook,Eletrônicos,2299.9,3199.0,2,2019-03-08 17:17:00,6398.0
+2020-10-21,123456111,José Maria,Vendedor,CL001,Loja Matriz,10017,Cama Box,Casa,1189.9,1899.5,1,2019-03-25 15:58:00,1899.5
+2020-02-03,123456555,Marta Cury,Vendedor,CL002,Filial MG,10007,Batedeira,Cozinha,49.9,95.9,2,2020-10-17 16:17:00,191.8
+2019-03-04,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,1,2019-06-13 14:04:00,2279.99
+2019-10-28,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10003,Televisão,Eletrodomésticos,1400.9,2279.99,1,2019-02-23 10:06:00,2279.99
+2019-09-03,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2020-04-29 09:41:00,729.0
+2020-03-25,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10018,Colchão,Casa,109.9,249.9,2,2020-02-26 14:58:00,499.8
+2020-11-15,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10018,Colchão,Casa,109.9,249.9,2,2020-01-28 11:43:00,499.8
+2019-07-18,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10020,Impressora,Eletrônicos,329.9,674.1,3,2019-09-03 14:38:00,2022.3
+2019-09-21,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10008,Cafeteira,Cozinha,159.9,284.9,1,2020-11-19 10:35:00,284.9
+2020-01-01,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10005,Notebook,Eletrônicos,2299.9,3199.0,2,2020-06-01 15:56:00,6398.0
+2019-03-17,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10020,Impressora,Eletrônicos,329.9,674.1,3,2019-12-08 10:16:00,2022.3
+2019-01-18,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2020-04-28 11:46:00,1709.1
+2020-06-08,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10012,Processador de alimentos,Cozinha,110.0,189.9,2,2019-09-16 17:38:00,379.8
+2019-08-01,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10016,Guarda Roupa,Casa,489.9,999.0,1,2020-12-31 16:44:00,999.0
+2019-05-26,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2020-04-04 17:15:00,1709.1
+2020-01-15,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10012,Processador de alimentos,Cozinha,110.0,189.9,1,2020-05-09 09:43:00,189.9
+2020-08-09,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10010,Fritadeira elétrica,Cozinha,187.9,340.0,1,2019-11-24 16:41:00,340.0
+2019-11-09,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10001,Smartphone,Eletrônicos,899.9,1676.9,3,2020-10-03 17:37:00,5030.700000000001
+2019-09-06,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10010,Fritadeira elétrica,Cozinha,187.9,340.0,2,2019-06-21 11:43:00,680.0
+2020-06-23,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10018,Colchão,Casa,109.9,249.9,1,2020-08-23 09:33:00,249.9
+2019-05-27,123456555,Marta Cury,Vendedor,CL002,Filial MG,10008,Cafeteira,Cozinha,159.9,284.9,4,2019-07-06 09:18:00,1139.6
+2020-05-21,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10020,Impressora,Eletrônicos,329.9,674.1,2,2019-08-20 17:00:00,1348.2
+2019-12-09,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,2,2020-01-04 12:21:00,4559.98
+2020-02-02,123456555,Marta Cury,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,3,2019-07-29 10:07:00,2997.0
+2019-09-20,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10012,Processador de alimentos,Cozinha,110.0,189.9,3,2020-08-06 10:34:00,569.7
+2020-12-12,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10008,Cafeteira,Cozinha,159.9,284.9,4,2019-05-15 09:39:00,1139.6
+2020-08-28,123456555,Marta Cury,Vendedor,CL002,Filial MG,10011,Liquidificador,Cozinha,59.9,142.4,3,2019-12-26 17:16:00,427.2000000000001
+2019-11-24,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10001,Smartphone,Eletrônicos,899.9,1676.9,1,2019-08-29 16:49:00,1676.9
+2020-04-18,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10010,Fritadeira elétrica,Cozinha,187.9,340.0,3,2020-04-10 13:42:00,1020.0
+2019-10-23,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10019,Sofá,Casa,789.9,1399.0,4,2019-07-07 09:02:00,5596.0
+2019-12-24,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10014,Geladeira,Eletrodomésticos,699.9,1346.9,2,2019-06-05 17:47:00,2693.8
+2019-03-13,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10012,Processador de alimentos,Cozinha,110.0,189.9,3,2020-01-24 16:20:00,569.7
+2020-04-07,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10001,Smartphone,Eletrônicos,899.9,1676.9,3,2019-10-23 17:31:00,5030.700000000001
+2020-12-27,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10006,Aspirador de pó,Casa,88.9,189.9,1,2019-06-14 16:56:00,189.9
+2020-02-05,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10008,Cafeteira,Cozinha,159.9,284.9,3,2020-07-27 12:41:00,854.6999999999999
+2020-10-21,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,1,2020-10-16 16:41:00,1899.5
+2019-10-12,123456111,José Maria,Vendedor,CL001,Loja Matriz,10003,Televisão,Eletrodomésticos,1400.9,2279.99,4,2020-03-06 13:22:00,9119.96
+2019-08-05,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10007,Batedeira,Cozinha,49.9,95.9,4,2020-02-01 10:18:00,383.6
+2020-10-22,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10005,Notebook,Eletrônicos,2299.9,3199.0,4,2020-08-22 10:33:00,12796.0
+2019-07-10,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10011,Liquidificador,Cozinha,59.9,142.4,1,2020-11-10 11:59:00,142.4
+2020-04-09,123456111,José Maria,Vendedor,CL001,Loja Matriz,10013,Fogão,Eletrodomésticos,210.9,404.1,4,2020-10-28 16:46:00,1616.4
+2020-02-25,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2020-02-19 13:29:00,1093.5
+2020-07-30,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10011,Liquidificador,Cozinha,59.9,142.4,3,2019-06-24 10:50:00,427.2000000000001
+2020-01-12,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2019-08-21 13:52:00,729.0
+2020-06-03,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10020,Impressora,Eletrônicos,329.9,674.1,4,2019-11-01 12:24:00,2696.4
+2019-06-18,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10018,Colchão,Casa,109.9,249.9,1,2020-08-22 10:31:00,249.9
+2019-07-31,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10018,Colchão,Casa,109.9,249.9,3,2019-04-12 09:04:00,749.7
+2019-01-15,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,4,2020-09-02 17:08:00,12796.0
+2019-11-04,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10009,Ferro de passar,Casa,27.9,55.9,3,2019-03-19 16:03:00,167.7
+2019-02-25,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,2,2019-03-30 12:42:00,808.2
+2020-04-13,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10007,Batedeira,Cozinha,49.9,95.9,3,2020-04-29 17:42:00,287.70000000000005
+2020-11-12,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,1,2019-01-24 10:30:00,189.9
+2020-11-24,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2020-09-02 15:04:00,4040.7
+2020-08-29,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10002,Tablet,Eletrônicos,799.0,1424.91,4,2019-10-05 13:19:00,5699.64
+2019-07-29,123456111,José Maria,Vendedor,CL001,Loja Matriz,10009,Ferro de passar,Casa,27.9,55.9,4,2020-05-31 15:42:00,223.6
+2020-08-21,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10010,Fritadeira elétrica,Cozinha,187.9,340.0,1,2019-01-27 13:04:00,340.0
+2019-11-03,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10002,Tablet,Eletrônicos,799.0,1424.91,2,2020-07-21 12:37:00,2849.82
+2020-05-07,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,4,2019-06-03 11:34:00,6836.4
+2020-06-13,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10016,Guarda Roupa,Casa,489.9,999.0,1,2019-09-23 16:49:00,999.0
+2020-11-02,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10016,Guarda Roupa,Casa,489.9,999.0,3,2019-08-30 13:40:00,2997.0
+2019-02-24,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,4,2020-06-04 11:43:00,759.6
+2019-05-15,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10009,Ferro de passar,Casa,27.9,55.9,3,2020-11-02 16:51:00,167.7
+2019-03-22,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,2,2020-06-01 11:28:00,1998.0
+2019-06-06,123456555,Marta Cury,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2019-08-31 12:29:00,729.0
+2019-09-15,123456111,José Maria,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,3,2020-08-07 14:53:00,9597.0
+2019-02-23,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10009,Ferro de passar,Casa,27.9,55.9,4,2020-03-19 09:30:00,223.6
+2020-12-09,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10009,Ferro de passar,Casa,27.9,55.9,1,2019-01-01 14:07:00,55.9
+2020-11-17,123456555,Marta Cury,Vendedor,CL002,Filial MG,10003,Televisão,Eletrodomésticos,1400.9,2279.99,2,2019-03-11 17:56:00,4559.98
+2019-09-03,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10008,Cafeteira,Cozinha,159.9,284.9,1,2019-10-19 09:44:00,284.9
+2020-01-16,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10007,Batedeira,Cozinha,49.9,95.9,3,2020-01-10 12:35:00,287.70000000000005
+2019-05-28,123456111,José Maria,Vendedor,CL001,Loja Matriz,10012,Processador de alimentos,Cozinha,110.0,189.9,1,2019-12-16 11:32:00,189.9
+2020-10-23,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10008,Cafeteira,Cozinha,159.9,284.9,4,2019-06-05 15:24:00,1139.6
+2019-01-23,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10006,Aspirador de pó,Casa,88.9,189.9,1,2019-08-06 15:29:00,189.9
+2020-04-15,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10017,Cama Box,Casa,1189.9,1899.5,1,2019-06-19 17:27:00,1899.5
+2019-09-30,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10019,Sofá,Casa,789.9,1399.0,3,2019-03-14 12:58:00,4197.0
+2019-04-25,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10003,Televisão,Eletrodomésticos,1400.9,2279.99,2,2019-05-22 16:42:00,4559.98
+2020-10-12,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10010,Fritadeira elétrica,Cozinha,187.9,340.0,4,2020-11-01 10:21:00,1360.0
+2019-12-15,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10010,Fritadeira elétrica,Cozinha,187.9,340.0,3,2020-05-12 13:15:00,1020.0
+2020-02-23,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,4,2019-02-11 13:00:00,3996.0
+2019-10-27,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10011,Liquidificador,Cozinha,59.9,142.4,3,2020-04-15 09:03:00,427.2000000000001
+2019-12-03,123456111,José Maria,Vendedor,CL001,Loja Matriz,10017,Cama Box,Casa,1189.9,1899.5,2,2019-08-07 17:53:00,3799.0
+2019-01-06,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10008,Cafeteira,Cozinha,159.9,284.9,1,2020-11-19 10:35:00,284.9
+2019-10-01,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10007,Batedeira,Cozinha,49.9,95.9,1,2019-10-21 12:35:00,95.9
+2019-01-19,123456111,José Maria,Vendedor,CL001,Loja Matriz,10009,Ferro de passar,Casa,27.9,55.9,2,2020-08-20 12:34:00,111.8
+2020-09-26,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10012,Processador de alimentos,Cozinha,110.0,189.9,1,2020-06-04 17:58:00,189.9
+2020-09-07,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,2,2019-06-03 10:17:00,3418.2
+2020-04-25,123456555,Marta Cury,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,2,2020-12-24 09:58:00,3799.0
+2020-03-09,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10010,Fritadeira elétrica,Cozinha,187.9,340.0,4,2020-03-27 16:39:00,1360.0
+2020-01-13,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10016,Guarda Roupa,Casa,489.9,999.0,4,2020-02-21 16:39:00,3996.0
+2020-03-22,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10015,Microondas,Eletrodomésticos,189.0,364.5,1,2020-03-21 09:35:00,364.5
+2019-05-21,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10019,Sofá,Casa,789.9,1399.0,1,2019-09-07 09:36:00,1399.0
+2019-02-06,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10018,Colchão,Casa,109.9,249.9,3,2019-11-07 09:40:00,749.7
+2020-02-05,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,2,2019-04-20 15:35:00,2849.82
+2019-07-23,123456111,José Maria,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,4,2019-01-03 16:47:00,5699.64
+2020-09-14,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10020,Impressora,Eletrônicos,329.9,674.1,1,2019-11-25 12:07:00,674.1
+2020-11-30,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10005,Notebook,Eletrônicos,2299.9,3199.0,3,2019-03-25 11:47:00,9597.0
+2019-08-13,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,1,2019-05-07 11:14:00,364.5
+2019-09-04,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10002,Tablet,Eletrônicos,799.0,1424.91,3,2019-03-06 17:29:00,4274.7300000000005
+2020-02-17,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,4,2019-03-17 13:52:00,6836.4
+2020-07-15,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10002,Tablet,Eletrônicos,799.0,1424.91,1,2020-09-26 15:17:00,1424.91
+2019-08-16,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10013,Fogão,Eletrodomésticos,210.9,404.1,1,2019-03-08 16:09:00,404.1
+2019-11-20,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2019-06-06 14:11:00,4040.7
+2020-12-30,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2019-09-30 10:09:00,1709.1
+2019-09-06,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10005,Notebook,Eletrônicos,2299.9,3199.0,1,2020-04-18 12:55:00,3199.0
+2020-11-01,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10001,Smartphone,Eletrônicos,899.9,1676.9,2,2020-04-25 13:35:00,3353.8
+2020-09-22,123456555,Marta Cury,Vendedor,CL002,Filial MG,10009,Ferro de passar,Casa,27.9,55.9,4,2019-07-29 15:42:00,223.6
+2020-08-28,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10017,Cama Box,Casa,1189.9,1899.5,1,2020-06-30 16:16:00,1899.5
+2019-08-15,123456111,José Maria,Vendedor,CL001,Loja Matriz,10011,Liquidificador,Cozinha,59.9,142.4,4,2020-03-22 17:29:00,569.6
+2019-07-31,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10020,Impressora,Eletrônicos,329.9,674.1,1,2020-12-23 17:25:00,674.1
+2019-11-03,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10018,Colchão,Casa,109.9,249.9,4,2020-03-17 11:34:00,999.6
+2019-10-27,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10008,Cafeteira,Cozinha,159.9,284.9,2,2019-08-08 10:56:00,569.8
+2020-04-24,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2019-09-04 10:13:00,1093.5
+2019-01-18,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10007,Batedeira,Cozinha,49.9,95.9,4,2020-05-25 15:03:00,383.6
+2019-09-27,123456555,Marta Cury,Vendedor,CL002,Filial MG,10008,Cafeteira,Cozinha,159.9,284.9,2,2020-10-27 14:08:00,569.8
+2019-04-04,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10006,Aspirador de pó,Casa,88.9,189.9,3,2019-11-05 10:24:00,569.7
+2019-11-29,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10020,Impressora,Eletrônicos,329.9,674.1,4,2019-01-11 16:12:00,2696.4
+2019-03-13,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,1,2019-06-24 13:11:00,1899.5
+2020-11-13,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,1,2020-10-06 17:44:00,1424.91
+2020-11-07,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10006,Aspirador de pó,Casa,88.9,189.9,4,2020-11-18 12:57:00,759.6
+2020-08-07,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2019-09-09 13:39:00,1093.5
+2019-11-22,123456555,Marta Cury,Vendedor,CL002,Filial MG,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2019-10-13 15:42:00,4040.7
+2020-05-12,123456555,Marta Cury,Vendedor,CL002,Filial MG,10011,Liquidificador,Cozinha,59.9,142.4,4,2019-01-06 17:21:00,569.6
+2019-05-18,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,3,2020-09-28 12:17:00,6839.969999999999
+2019-06-09,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10011,Liquidificador,Cozinha,59.9,142.4,2,2019-03-23 14:35:00,284.8
+2020-08-18,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,3,2020-09-16 09:16:00,569.7
+2020-04-04,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,3,2019-11-27 16:32:00,5127.299999999999
+2020-08-08,123456111,José Maria,Vendedor,CL001,Loja Matriz,10011,Liquidificador,Cozinha,59.9,142.4,2,2019-12-26 14:55:00,284.8
+2019-10-07,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10017,Cama Box,Casa,1189.9,1899.5,2,2020-02-17 14:21:00,3799.0
+2019-12-28,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10002,Tablet,Eletrônicos,799.0,1424.91,2,2019-01-12 10:27:00,2849.82
+2019-12-17,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10012,Processador de alimentos,Cozinha,110.0,189.9,3,2019-04-30 13:02:00,569.7
+2019-01-08,123456555,Marta Cury,Vendedor,CL002,Filial MG,10020,Impressora,Eletrônicos,329.9,674.1,1,2020-12-13 14:53:00,674.1
+2020-05-23,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10010,Fritadeira elétrica,Cozinha,187.9,340.0,3,2019-01-22 17:16:00,1020.0
+2019-12-05,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10010,Fritadeira elétrica,Cozinha,187.9,340.0,4,2019-05-13 12:03:00,1360.0
+2020-01-02,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10011,Liquidificador,Cozinha,59.9,142.4,1,2020-01-16 16:26:00,142.4
+2019-02-08,123456111,José Maria,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2020-03-17 15:26:00,1709.1
+2019-09-13,123456555,Marta Cury,Vendedor,CL002,Filial MG,10011,Liquidificador,Cozinha,59.9,142.4,3,2019-12-26 17:16:00,427.2000000000001
+2019-05-12,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10009,Ferro de passar,Casa,27.9,55.9,4,2019-02-09 17:47:00,223.6
+2019-08-16,123456555,Marta Cury,Vendedor,CL002,Filial MG,10008,Cafeteira,Cozinha,159.9,284.9,1,2020-11-18 14:38:00,284.9
+2019-09-30,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10002,Tablet,Eletrônicos,799.0,1424.91,4,2019-06-10 13:53:00,5699.64
+2020-03-04,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,1,2019-01-17 12:45:00,1899.5
+2020-08-30,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,4,2020-01-19 16:34:00,6836.4
+2019-01-30,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10006,Aspirador de pó,Casa,88.9,189.9,2,2019-04-13 12:04:00,379.8
+2019-06-25,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2019-11-01 13:27:00,1093.5
+2020-01-18,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,3,2019-09-30 11:26:00,5127.299999999999
+2020-11-27,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2020-07-31 10:03:00,1093.5
+2020-03-22,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10019,Sofá,Casa,789.9,1399.0,1,2019-06-20 16:17:00,1399.0
+2020-03-25,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10012,Processador de alimentos,Cozinha,110.0,189.9,2,2020-01-08 12:47:00,379.8
+2020-01-12,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,3,2019-05-16 15:57:00,5127.299999999999
+2020-05-24,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,4,2019-09-06 15:08:00,7598.0
+2020-06-13,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10012,Processador de alimentos,Cozinha,110.0,189.9,4,2019-03-25 16:09:00,759.6
+2020-03-01,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2020-12-17 15:34:00,1093.5
+2020-09-23,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10008,Cafeteira,Cozinha,159.9,284.9,3,2020-10-17 11:52:00,854.6999999999999
+2020-03-24,123456111,José Maria,Vendedor,CL001,Loja Matriz,10013,Fogão,Eletrodomésticos,210.9,404.1,1,2020-05-11 16:00:00,404.1
+2019-08-09,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,2,2019-06-13 17:05:00,2849.82
+2020-04-08,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10001,Smartphone,Eletrônicos,899.9,1676.9,4,2020-09-14 15:41:00,6707.6
+2020-03-19,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10010,Fritadeira elétrica,Cozinha,187.9,340.0,4,2020-11-01 10:21:00,1360.0
+2020-08-25,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10020,Impressora,Eletrônicos,329.9,674.1,3,2020-12-08 16:32:00,2022.3
+2019-11-04,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,3,2020-04-11 09:28:00,6839.969999999999
+2020-03-21,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10018,Colchão,Casa,109.9,249.9,4,2019-11-09 14:10:00,999.6
+2020-06-02,123456555,Marta Cury,Vendedor,CL002,Filial MG,10013,Fogão,Eletrodomésticos,210.9,404.1,1,2020-04-08 16:04:00,404.1
+2019-04-02,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10019,Sofá,Casa,789.9,1399.0,1,2020-07-26 15:18:00,1399.0
+2019-08-24,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10012,Processador de alimentos,Cozinha,110.0,189.9,4,2019-12-13 11:13:00,759.6
+2020-11-21,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10006,Aspirador de pó,Casa,88.9,189.9,3,2019-12-22 10:28:00,569.7
+2020-09-06,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,4,2019-09-24 15:13:00,1616.4
+2020-07-16,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10020,Impressora,Eletrônicos,329.9,674.1,2,2020-05-28 13:59:00,1348.2
+2019-06-01,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10009,Ferro de passar,Casa,27.9,55.9,4,2020-10-26 11:02:00,223.6
+2019-07-29,123456111,José Maria,Vendedor,CL001,Loja Matriz,10014,Geladeira,Eletrodomésticos,699.9,1346.9,1,2020-07-21 16:55:00,1346.9
+2020-10-31,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,2,2019-12-29 12:05:00,2849.82
+2019-12-13,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10018,Colchão,Casa,109.9,249.9,4,2020-12-05 13:23:00,999.6
+2019-05-26,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10017,Cama Box,Casa,1189.9,1899.5,1,2019-10-15 16:34:00,1899.5
+2020-10-03,123456111,José Maria,Vendedor,CL001,Loja Matriz,10008,Cafeteira,Cozinha,159.9,284.9,1,2020-09-24 15:31:00,284.9
+2019-04-16,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10019,Sofá,Casa,789.9,1399.0,3,2019-02-07 16:09:00,4197.0
+2020-05-07,123456555,Marta Cury,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,4,2019-12-05 16:26:00,3996.0
+2020-04-21,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10005,Notebook,Eletrônicos,2299.9,3199.0,1,2020-04-25 09:46:00,3199.0
+2020-08-24,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10008,Cafeteira,Cozinha,159.9,284.9,1,2019-11-02 10:53:00,284.9
+2020-09-18,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,4,2019-03-17 13:52:00,6836.4
+2019-08-31,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10018,Colchão,Casa,109.9,249.9,4,2020-01-28 10:18:00,999.6
+2020-05-14,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10007,Batedeira,Cozinha,49.9,95.9,3,2019-03-03 12:30:00,287.70000000000005
+2020-03-24,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10003,Televisão,Eletrodomésticos,1400.9,2279.99,2,2020-05-23 17:44:00,4559.98
+2019-10-10,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10012,Processador de alimentos,Cozinha,110.0,189.9,3,2019-10-24 13:17:00,569.7
+2019-12-28,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,2,2020-01-22 10:10:00,808.2
+2019-06-09,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10011,Liquidificador,Cozinha,59.9,142.4,1,2019-09-11 11:26:00,142.4
+2019-03-15,123456111,José Maria,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,4,2020-12-20 17:01:00,5699.64
+2019-03-24,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10010,Fritadeira elétrica,Cozinha,187.9,340.0,1,2020-11-14 15:35:00,340.0
+2020-03-15,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10003,Televisão,Eletrodomésticos,1400.9,2279.99,4,2019-11-01 14:31:00,9119.96
+2019-09-05,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10001,Smartphone,Eletrônicos,899.9,1676.9,2,2020-07-22 14:52:00,3353.8
+2020-03-23,123456111,José Maria,Vendedor,CL001,Loja Matriz,10001,Smartphone,Eletrônicos,899.9,1676.9,3,2020-05-22 16:54:00,5030.700000000001
+2020-06-08,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10011,Liquidificador,Cozinha,59.9,142.4,1,2020-07-17 17:00:00,142.4
+2020-03-24,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10001,Smartphone,Eletrônicos,899.9,1676.9,2,2020-02-27 17:18:00,3353.8
+2019-04-22,123456555,Marta Cury,Vendedor,CL002,Filial MG,10005,Notebook,Eletrônicos,2299.9,3199.0,2,2019-04-04 11:29:00,6398.0
+2020-05-18,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2020-12-10 11:05:00,4040.7
+2020-11-09,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,3,2020-10-15 10:08:00,569.7
+2019-04-05,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10020,Impressora,Eletrônicos,329.9,674.1,3,2020-07-29 15:57:00,2022.3
+2020-10-25,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10018,Colchão,Casa,109.9,249.9,1,2020-08-08 14:18:00,249.9
+2019-03-15,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10018,Colchão,Casa,109.9,249.9,2,2019-06-07 17:58:00,499.8
+2019-09-03,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10002,Tablet,Eletrônicos,799.0,1424.91,4,2019-04-22 09:16:00,5699.64
+2020-09-18,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,3,2019-06-02 10:43:00,2997.0
+2020-07-08,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,1,2019-04-30 09:39:00,2279.99
+2019-03-09,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2019-10-13 12:54:00,1709.1
+2020-07-22,123456111,José Maria,Vendedor,CL001,Loja Matriz,10013,Fogão,Eletrodomésticos,210.9,404.1,2,2019-12-03 13:33:00,808.2
+2019-02-28,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10016,Guarda Roupa,Casa,489.9,999.0,1,2020-10-30 11:49:00,999.0
+2019-08-05,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10008,Cafeteira,Cozinha,159.9,284.9,2,2019-12-09 10:12:00,569.8
+2020-02-28,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10013,Fogão,Eletrodomésticos,210.9,404.1,3,2019-09-23 15:02:00,1212.3000000000002
+2020-05-11,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10006,Aspirador de pó,Casa,88.9,189.9,4,2019-09-28 12:22:00,759.6
+2019-08-17,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,3,2019-11-22 13:00:00,6839.969999999999
+2019-03-14,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,3,2019-03-28 11:33:00,1093.5
+2020-01-01,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10020,Impressora,Eletrônicos,329.9,674.1,4,2019-05-21 11:12:00,2696.4
+2020-12-13,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10014,Geladeira,Eletrodomésticos,699.9,1346.9,2,2019-08-02 17:25:00,2693.8
+2020-07-10,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10007,Batedeira,Cozinha,49.9,95.9,4,2020-06-27 11:09:00,383.6
+2019-12-16,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10013,Fogão,Eletrodomésticos,210.9,404.1,2,2020-11-22 11:40:00,808.2
+2019-02-26,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10011,Liquidificador,Cozinha,59.9,142.4,2,2019-03-23 14:35:00,284.8
+2019-07-30,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10017,Cama Box,Casa,1189.9,1899.5,4,2019-01-22 12:52:00,7598.0
+2019-04-05,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10018,Colchão,Casa,109.9,249.9,1,2020-04-05 13:47:00,249.9
+2020-01-06,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10001,Smartphone,Eletrônicos,899.9,1676.9,4,2019-06-10 12:38:00,6707.6
+2020-02-14,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10001,Smartphone,Eletrônicos,899.9,1676.9,3,2020-12-07 15:49:00,5030.700000000001
+2020-09-08,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10020,Impressora,Eletrônicos,329.9,674.1,3,2019-10-03 10:01:00,2022.3
+2019-02-28,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10009,Ferro de passar,Casa,27.9,55.9,3,2019-11-24 11:52:00,167.7
+2019-05-01,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10020,Impressora,Eletrônicos,329.9,674.1,1,2019-09-24 16:44:00,674.1
+2019-11-13,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10010,Fritadeira elétrica,Cozinha,187.9,340.0,4,2020-04-18 14:55:00,1360.0
+2019-11-16,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10015,Microondas,Eletrodomésticos,189.0,364.5,1,2020-10-11 17:11:00,364.5
+2020-08-08,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10018,Colchão,Casa,109.9,249.9,2,2020-12-27 09:17:00,499.8
+2019-04-30,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2020-07-15 12:08:00,1709.1
+2020-01-05,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2020-02-11 16:31:00,729.0
+2019-11-26,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,4,2019-07-14 13:27:00,6836.4
+2020-07-30,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10018,Colchão,Casa,109.9,249.9,2,2020-05-16 13:08:00,499.8
+2019-12-27,123456444,Ricardo Lemos,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,1,2019-11-17 10:25:00,1899.5
+2019-04-02,123456111,José Maria,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,1,2019-08-07 17:22:00,1424.91
+2020-03-01,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,4,2020-12-05 14:38:00,9119.96
+2020-09-29,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10006,Aspirador de pó,Casa,88.9,189.9,4,2020-10-23 09:47:00,759.6
+2020-06-20,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10016,Guarda Roupa,Casa,489.9,999.0,2,2020-08-05 17:42:00,1998.0
+2020-08-24,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2020-12-12 14:54:00,4040.7
+2020-11-23,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10020,Impressora,Eletrônicos,329.9,674.1,2,2019-08-20 17:00:00,1348.2
+2020-11-06,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,4,2020-06-04 11:43:00,759.6
+2019-12-11,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,4,2019-10-15 10:03:00,6836.4
+2019-08-04,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10006,Aspirador de pó,Casa,88.9,189.9,2,2019-12-02 11:08:00,379.8
+2019-03-23,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10001,Smartphone,Eletrônicos,899.9,1676.9,3,2019-02-09 16:19:00,5030.700000000001
+2020-12-29,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10020,Impressora,Eletrônicos,329.9,674.1,4,2019-04-12 14:37:00,2696.4
+2019-02-15,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10003,Televisão,Eletrodomésticos,1400.9,2279.99,3,2019-02-24 13:05:00,6839.969999999999
+2019-03-13,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10003,Televisão,Eletrodomésticos,1400.9,2279.99,3,2019-06-11 11:04:00,6839.969999999999
+2019-07-20,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,1,2020-12-15 10:46:00,1899.5
+2020-12-04,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10009,Ferro de passar,Casa,27.9,55.9,1,2020-07-27 14:35:00,55.9
+2020-04-30,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10009,Ferro de passar,Casa,27.9,55.9,1,2019-11-20 14:32:00,55.9
+2020-04-17,123456555,Marta Cury,Vendedor,CL002,Filial MG,10013,Fogão,Eletrodomésticos,210.9,404.1,4,2019-03-06 11:14:00,1616.4
+2020-01-05,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10008,Cafeteira,Cozinha,159.9,284.9,1,2019-12-03 11:46:00,284.9
+2019-10-21,123456999,Felipe Marinho,Vendedor,CL003,Filial SP,10008,Cafeteira,Cozinha,159.9,284.9,2,2019-07-21 09:09:00,569.8
+2019-02-05,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10008,Cafeteira,Cozinha,159.9,284.9,3,2020-01-13 11:42:00,854.6999999999999
+2019-06-13,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10014,Geladeira,Eletrodomésticos,699.9,1346.9,3,2019-05-19 12:02:00,4040.7
+2019-05-07,123456555,Marta Cury,Vendedor,CL002,Filial MG,10009,Ferro de passar,Casa,27.9,55.9,4,2019-07-29 15:42:00,223.6
+2019-05-01,123456111,José Maria,Vendedor,CL001,Loja Matriz,10011,Liquidificador,Cozinha,59.9,142.4,3,2019-10-10 11:01:00,427.2000000000001
+2020-06-27,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10011,Liquidificador,Cozinha,59.9,142.4,4,2020-07-22 11:25:00,569.6
+2020-02-20,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10012,Processador de alimentos,Cozinha,110.0,189.9,4,2019-02-11 17:59:00,759.6
+2020-06-07,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10017,Cama Box,Casa,1189.9,1899.5,4,2019-10-29 12:19:00,7598.0
+2019-06-21,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10009,Ferro de passar,Casa,27.9,55.9,4,2020-04-05 17:53:00,223.6
+2019-04-24,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10017,Cama Box,Casa,1189.9,1899.5,2,2020-02-17 14:21:00,3799.0
+2019-07-05,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10012,Processador de alimentos,Cozinha,110.0,189.9,1,2020-10-14 09:31:00,189.9
+2019-05-22,123456555,Marta Cury,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,1,2020-05-08 15:32:00,999.0
+2020-07-11,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10010,Fritadeira elétrica,Cozinha,187.9,340.0,4,2019-08-17 10:50:00,1360.0
+2019-08-13,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,4,2020-01-23 12:44:00,6836.4
+2019-02-08,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10001,Smartphone,Eletrônicos,899.9,1676.9,4,2019-06-26 11:41:00,6707.6
+2020-12-29,123456111,José Maria,Vendedor,CL001,Loja Matriz,10009,Ferro de passar,Casa,27.9,55.9,4,2019-08-06 10:59:00,223.6
+2019-11-10,123456111,José Maria,Vendedor,CL001,Loja Matriz,10002,Tablet,Eletrônicos,799.0,1424.91,4,2020-12-20 17:01:00,5699.64
+2019-10-13,123456555,Marta Cury,Vendedor,CL002,Filial MG,10016,Guarda Roupa,Casa,489.9,999.0,4,2019-12-05 16:26:00,3996.0
+2020-10-18,123456888,Rita Sampaio,Vendedor,CL003,Filial SP,10005,Notebook,Eletrônicos,2299.9,3199.0,2,2019-10-26 10:07:00,6398.0
+2020-11-29,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10014,Geladeira,Eletrodomésticos,699.9,1346.9,2,2020-10-01 09:54:00,2693.8
+2020-11-03,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10003,Televisão,Eletrodomésticos,1400.9,2279.99,2,2019-05-22 16:42:00,4559.98
+2020-06-13,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2020-11-15 13:48:00,1709.1
+2020-06-28,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2020-12-25 14:26:00,1709.1
+2020-02-14,123456555,Marta Cury,Vendedor,CL002,Filial MG,10006,Aspirador de pó,Casa,88.9,189.9,4,2020-04-01 17:40:00,759.6
+2019-02-23,123456555,Marta Cury,Vendedor,CL002,Filial MG,10017,Cama Box,Casa,1189.9,1899.5,3,2019-10-05 17:54:00,5698.5
+2020-09-20,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10015,Microondas,Eletrodomésticos,189.0,364.5,2,2019-07-25 17:20:00,729.0
+2020-02-02,123456777,Marcos Coelho,Vendedor,CL003,Filial SP,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,1,2020-09-23 11:54:00,1709.1
+2020-09-25,123456222,Maria das Graças,Vendedor,CL001,Loja Matriz,10012,Processador de alimentos,Cozinha,110.0,189.9,4,2020-12-04 17:10:00,759.6
+2019-06-02,123456666,Reginaldo Sodré,Vendedor,CL002,Filial MG,10011,Liquidificador,Cozinha,59.9,142.4,3,2019-11-18 16:12:00,427.2000000000001
+2020-10-12,123457112,Mário Henrique,Vendedor,CL004,Filial ES,10012,Processador de alimentos,Cozinha,110.0,189.9,1,2019-04-02 12:18:00,189.9
+2019-02-15,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10005,Notebook,Eletrônicos,2299.9,3199.0,1,2019-06-21 09:21:00,3199.0
+2019-02-23,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10003,Televisão,Eletrodomésticos,1400.9,2279.99,4,2020-05-09 11:36:00,9119.96
+2019-12-13,123456111,José Maria,Vendedor,CL001,Loja Matriz,10008,Cafeteira,Cozinha,159.9,284.9,1,2020-09-24 15:31:00,284.9
+2019-09-04,123457111,Pamela Lima,Vendedor,CL004,Filial ES,10018,Colchão,Casa,109.9,249.9,3,2019-04-12 09:04:00,749.7
+2020-05-02,123456111,José Maria,Vendedor,CL001,Loja Matriz,10017,Cama Box,Casa,1189.9,1899.5,3,2020-03-11 10:27:00,5698.5
+2020-06-14,123456333,Jorge Mateus,Vendedor,CL001,Loja Matriz,10003,Televisão,Eletrodomésticos,1400.9,2279.99,1,2019-04-07 15:45:00,2279.99
+2020-11-04,123456111,José Maria,Vendedor,CL001,Loja Matriz,10004,Máquina Lavar Roupa,Eletrodomésticos,1099.0,1709.1,3,2019-11-05 15:44:00,5127.299999999999
+2019-07-26,123457113,Victor Hugo,Vendedor,CL004,Filial ES,10013,Fogão,Eletrodomésticos,210.9,404.1,1,2019-02-25 14:14:00,404.1
